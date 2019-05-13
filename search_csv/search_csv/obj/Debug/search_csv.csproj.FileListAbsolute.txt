@@ -1,0 +1,10 @@
+C:\epamTesting\epam_04.05.19\search_csv\search_csv\bin\Debug\search_csv.exe.config
+C:\epamTesting\epam_04.05.19\search_csv\search_csv\bin\Debug\search_csv.exe
+C:\epamTesting\epam_04.05.19\search_csv\search_csv\bin\Debug\search_csv.pdb
+C:\epamTesting\epam_04.05.19\search_csv\search_csv\bin\Debug\CmdParser.dll
+C:\epamTesting\epam_04.05.19\search_csv\search_csv\bin\Debug\CmdParser.pdb
+C:\epamTesting\epam_04.05.19\search_csv\search_csv\obj\Debug\search_csv.csprojAssemblyReference.cache
+C:\epamTesting\epam_04.05.19\search_csv\search_csv\obj\Debug\search_csv.csproj.CoreCompileInputs.cache
+C:\epamTesting\epam_04.05.19\search_csv\search_csv\obj\Debug\search_csv.csproj.CopyComplete
+C:\epamTesting\epam_04.05.19\search_csv\search_csv\obj\Debug\search_csv.exe
+C:\epamTesting\epam_04.05.19\search_csv\search_csv\obj\Debug\search_csv.pdb

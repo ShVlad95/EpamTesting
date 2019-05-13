@@ -1,0 +1,17 @@
+C:\Users\Vlad\source\repos\epam_03.05.19\gen_csv\gen_csv\bin\Debug\gen_csv.exe.config
+C:\Users\Vlad\source\repos\epam_03.05.19\gen_csv\gen_csv\bin\Debug\gen_csv.exe
+C:\Users\Vlad\source\repos\epam_03.05.19\gen_csv\gen_csv\bin\Debug\gen_csv.pdb
+C:\Users\Vlad\source\repos\epam_03.05.19\gen_csv\gen_csv\obj\Debug\gen_csv.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\epam_03.05.19\gen_csv\gen_csv\obj\Debug\gen_csv.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\epam_03.05.19\gen_csv\gen_csv\obj\Debug\gen_csv.exe
+C:\Users\Vlad\source\repos\epam_03.05.19\gen_csv\gen_csv\obj\Debug\gen_csv.pdb
+C:\epamTesting\epam_04.05.19\gen_csv\gen_csv\obj\Debug\gen_csv.csproj.CoreCompileInputs.cache
+C:\epamTesting\epam_04.05.19\gen_csv\gen_csv\obj\Debug\gen_csv.exe
+C:\epamTesting\epam_04.05.19\gen_csv\gen_csv\obj\Debug\gen_csv.pdb
+C:\epamTesting\epam_04.05.19\gen_csv\gen_csv\bin\Debug\gen_csv.exe.config
+C:\epamTesting\epam_04.05.19\gen_csv\gen_csv\bin\Debug\gen_csv.exe
+C:\epamTesting\epam_04.05.19\gen_csv\gen_csv\bin\Debug\gen_csv.pdb
+C:\epamTesting\epam_04.05.19\gen_csv\gen_csv\bin\Debug\CmdParser.dll
+C:\epamTesting\epam_04.05.19\gen_csv\gen_csv\bin\Debug\CmdParser.pdb
+C:\epamTesting\epam_04.05.19\gen_csv\gen_csv\obj\Debug\gen_csv.csproj.CopyComplete
+C:\epamTesting\epam_04.05.19\gen_csv\gen_csv\obj\Debug\gen_csv.csprojAssemblyReference.cache
